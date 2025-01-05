@@ -1,0 +1,7 @@
+__pycache__
+API/__pycache__
+models/__pycache__
+utils/__pycache__
+.pytest_cache
+test.py
+assets/images/*
